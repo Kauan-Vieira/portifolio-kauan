@@ -42,6 +42,7 @@ html {
 }
 
 body {
+    padding-top: 60px;
     background-color: var(--bg-body);
     color: var(--text-main);
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
