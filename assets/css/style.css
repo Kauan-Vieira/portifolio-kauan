@@ -281,10 +281,6 @@ button[type="submit"]:hover {
     
     /* Começa invisível */
     opacity: 0; 
-    
-    /* visibility: hidden é crucial! 
-       Se usar só opacity: 0, o menu continua lá "invisível" 
-       e bloqueia cliques no resto do site. */
     visibility: hidden; 
     
     /* Começa 20px mais pra cima para dar um efeito de "deslizar" */
